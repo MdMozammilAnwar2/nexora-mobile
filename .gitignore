@@ -1,0 +1,9 @@
+node_modules
+.expo
+dist
+.env
+play-service-account.json
+*.jks
+*.keystore
+android
+ios
